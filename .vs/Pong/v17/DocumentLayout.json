@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atiko\\Pong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\atiko\\Pong\\assets\\balllogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\balllogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\atiko\\Pong\\assets\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\playerlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\atiko\\Pong\\assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|c:\\users\\atiko\\pong\\assets\\scenelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\scenelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|C:\\Users\\atiko\\Pong\\assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59972000-A102-93F3-E252-4AFE00D882C8}|Assembly-CSharp.csproj|solutionrelative:assets\\goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SceneLogic.cs",
+              "DocumentMoniker": "C:\\Users\\atiko\\Pong\\Assets\\SceneLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\SceneLogic.cs",
+              "ToolTip": "C:\\Users\\atiko\\Pong\\Assets\\SceneLogic.cs",
+              "RelativeToolTip": "Assets\\SceneLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T17:40:36.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Goal.cs",
+              "DocumentMoniker": "C:\\Users\\atiko\\Pong\\Assets\\Goal.cs",
+              "RelativeDocumentMoniker": "Assets\\Goal.cs",
+              "ToolTip": "C:\\Users\\atiko\\Pong\\Assets\\Goal.cs",
+              "RelativeToolTip": "Assets\\Goal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:20:38.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\atiko\\Pong\\Assets\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameManager.cs",
+              "ToolTip": "C:\\Users\\atiko\\Pong\\Assets\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameManager.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T16:14:31.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BallLogic.cs",
+              "DocumentMoniker": "C:\\Users\\atiko\\Pong\\Assets\\BallLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\BallLogic.cs",
+              "ToolTip": "C:\\Users\\atiko\\Pong\\Assets\\BallLogic.cs",
+              "RelativeToolTip": "Assets\\BallLogic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:47:52.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerLogic.cs",
+              "DocumentMoniker": "C:\\Users\\atiko\\Pong\\Assets\\PlayerLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerLogic.cs",
+              "ToolTip": "C:\\Users\\atiko\\Pong\\Assets\\PlayerLogic.cs",
+              "RelativeToolTip": "Assets\\PlayerLogic.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T15:23:39.733Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
